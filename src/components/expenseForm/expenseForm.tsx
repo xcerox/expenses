@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, {useState} from 'react';
 import ExpenseType from "../../models/expense.type";
 import { ExpenseFormProps } from "../../models/expenseForm.props";
 import { formatToInput } from "../../utils/formatUtil";

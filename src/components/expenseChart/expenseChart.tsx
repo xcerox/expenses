@@ -1,3 +1,4 @@
+import React from 'react';
 import { Point } from "../../models/chart.type";
 import { ExpenseChartProps } from "../../models/expenseChart.props";
 import { Chart } from "..";

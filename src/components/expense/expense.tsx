@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from "react";
+import React, {useState} from 'react';
 import { ExpenseDate, Card } from "..";
 import ExpenseProps from "../../models/expense.type";
 import "./expense.css";

@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import React, {useState} from 'react';
 import './App.css';
 import { Expenses, NewExpense } from './components';
 import ExpenseType from './models/expense.type';
